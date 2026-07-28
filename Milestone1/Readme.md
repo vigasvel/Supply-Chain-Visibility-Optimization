@@ -22,29 +22,8 @@ To get started with the Supply Chain Analysis Project, follow these steps:
 ## 💻 Usage
 The project can be used to analyze supply chain data, train predictive models, and optimize performance. The `DataCoSupplyChainDataset.csv` file serves as the primary data source.
 
-## 📂 Project Structure
-```markdown
-.
-├── Data
-│   ├── DataCoSupplyChainDataset.csv
-├── src
-│   ├── data_analysis.py
-│   ├── predictive_modeling.py
-│   ├── performance_optimization.py
-│   ├── main.py
-├── requirements.txt
-└── README.md
-```
-
-
-## 🤝 Contributing
-Contributions to the Supply Chain Analysis Project are welcome. To contribute, please fork the repository, make your changes, and submit a pull request.
-
 ## 📝 License
 The Supply Chain Analysis Project is licensed under the MIT License.
 
-## 📬 Contact
+## 📬 Author
 For questions, concerns, or feedback, please contact us at [vigasvelr@gmail.com](mailto:vigasvelr@gmail.com).
-
-## 💖 Thanks Message
-A huge thank you to all contributors and users of the Supply Chain Analysis Project. Your support and feedback are invaluable to us.
